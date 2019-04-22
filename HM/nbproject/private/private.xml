@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/web/user/dashboard.jsp</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/web/admin/admindashboard.jsp</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/src/java/chitkara/controller/AddStudentController.java</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/src/java/chitkara/db/DbConnection.java</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/web/newjsp.jsp</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/src/java/chitkara/operation/UserOperation.java</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/src/java/chitkara/db/Example.java</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/web/user/profile.jsp</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/src/java/chitkara/dao/ProfileDao.java</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/web/admin/addStudent.jsp</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/web/user/addComplaint.jsp</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/src/java/chitkara/controller/AddComplaintController.java</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/src/java/chitkara/operation/ProfileOperation.java</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/web/index.html</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/src/java/chitkara/controller/LogoutServlet.java</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/src/java/chitkara/controller/SecondServlet.java</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/src/java/chitkara/dao/UserDao.java</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/src/java/chitkara/db/Provider.java</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/src/java/chitkara/controller/LoginController.java</file>
+            <file>file:/C:/Users/WIN%2010/Documents/NetBeansProjects/HM/src/java/chitkara/dao/ComplaintDao.java</file>
+        </group>
+    </open-files>
+</project-private>
